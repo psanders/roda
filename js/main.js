@@ -18,7 +18,7 @@
   const player = document.querySelector("[data-hero-player]");
   const video = player?.querySelector("video");
   const toggle = player?.querySelector("[data-sound-toggle]");
-  const timecode = player?.querySelector("[data-timecode]");
+  
   const progress = player?.querySelector("[data-progress]");
   let fullMode = false; // false = versión limpia en loop (sin música ni textos)
 
@@ -63,7 +63,6 @@
   if (video) {
     if (reduceMotion) video.removeAttribute("autoplay");
     video.addEventListener("timeupdate", () => {
-      if (timecode) timecode.textContent = fmt(video.currentTime);
       if (progress && video.duration) progress.style.width = `${(video.currentTime / video.duration) * 100}%`;
     });
     video.addEventListener("ended", () => { if (fullMode) backToClean(); });

@@ -78,37 +78,42 @@ em{font-style:italic}
 
 /* Teléfono / reproductor */
 /* iPhone 17: pantalla completa, bordes finos, Dynamic Island */
-.phone{width:clamp(250px,20vw,290px);display:flex;flex-direction:column;align-items:center;gap:18px}
-.phone-body{position:relative;width:100%;padding:5px;border-radius:52px;
+.phone{container-type:inline-size;width:clamp(250px,20vw,290px);display:flex;flex-direction:column;align-items:center;gap:18px}
+.phone-body{position:relative;width:100%;padding:1.9%;border-radius:15.4cqw;
   background:linear-gradient(135deg,#8d867c 0%,#3b3631 18%,#1b1815 50%,#3b3631 82%,#8d867c 100%);
   box-shadow:inset 0 0 0 1.5px rgba(255,255,255,.18),0 40px 90px rgba(0,0,0,.6)}
-.phone-body::before{content:"";position:absolute;inset:3px;border-radius:49px;background:#050505}
+.phone-body::before{content:"";position:absolute;inset:1.1%;border-radius:14.6cqw;background:#050505}
 .pbtn{position:absolute;width:3px;border-radius:2px;background:linear-gradient(90deg,#4a443d,#8d867c)}
 .pbtn-action{left:-2px;top:17%;height:26px}
 .pbtn-volup{left:-2px;top:25%;height:44px}
 .pbtn-voldn{left:-2px;top:33%;height:44px}
 .pbtn-power{right:-2px;top:27%;height:70px;background:linear-gradient(270deg,#4a443d,#8d867c)}
 .pbtn-camera{right:-2px;top:58%;height:34px;background:linear-gradient(270deg,#3a352f,#6d665d)}
-.phone-screen{position:relative;width:100%;aspect-ratio:9/19.5;border-radius:47px;overflow:hidden;background:#000;isolation:isolate}
+/* Medidas reales del iPhone 17 (pantalla 402 × 874 pt); 1 pt = 100cqw / 402 */
+.phone-screen{position:relative;width:100%;aspect-ratio:402/874;border-radius:13.3cqw;overflow:hidden;background:#000;isolation:isolate;container-type:inline-size}
 .phone-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
-.phone-status{position:absolute;left:0;right:0;top:0;height:52px;display:flex;align-items:center;justify-content:space-between;padding:4px 26px 0 30px;color:#fff;
-  background:linear-gradient(rgba(0,0,0,.38),rgba(0,0,0,0));z-index:2;pointer-events:none}
-.st-time{font:600 14px/1 var(--sans);letter-spacing:-.01em}
-.island{position:absolute;left:50%;top:11px;transform:translateX(-50%);width:31%;height:27px;border-radius:15px;background:#000}
-.status-icons{display:flex;gap:5px;align-items:center}
-.status-icons svg{height:11px;width:auto;fill:currentColor}
-.phone-foot{position:absolute;left:0;right:0;bottom:0;display:flex;align-items:center;gap:9px;padding:40px 16px 30px;color:#fff;z-index:2;pointer-events:none;
-  background:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,.5))}
-.ad-avatar{flex:none;width:28px;height:28px;border-radius:50%;background:#1F3B2D;color:#E9D9A6;display:grid;place-items:center;font:400 16px/1 var(--serif);box-shadow:0 0 0 1.5px rgba(255,255,255,.8)}
-.ad-name{display:flex;flex-direction:column;gap:2px;font:600 12px/1.1 var(--sans)}
-.ad-name small{font:400 10px/1 var(--sans);color:rgba(255,255,255,.75)}
-.sound-toggle{position:absolute;right:14px;bottom:30px;z-index:3;width:38px;height:38px;border-radius:50%;border:0;background:rgba(22,19,15,.55);backdrop-filter:blur(6px);color:#fff;display:grid;place-items:center;cursor:pointer}
-.sound-toggle .ico,.cut-sound .ico{width:19px;height:19px}
+.phone-status{position:absolute;left:0;right:0;top:0;height:13.4cqw;display:flex;align-items:flex-start;color:#fff;z-index:2;pointer-events:none;
+  background:linear-gradient(rgba(0,0,0,.35),rgba(0,0,0,0))}
+.st-ear{flex:1;height:14.7cqw;display:flex;align-items:center;justify-content:center;padding-top:.4cqw}
+.st-time{font:600 4.23cqw/1 var(--sans);letter-spacing:-.02em;font-feature-settings:"tnum"}
+.island{flex:none;width:31.3cqw;height:9.2cqw;margin-top:2.74cqw;border-radius:4.6cqw;background:#000}
+.st-icons{gap:1.5cqw}
+.st-icons svg{fill:currentColor;display:block}
+.st-cell{width:4.23cqw;height:2.74cqw}
+.st-wifi{width:3.98cqw;height:2.86cqw}
+.st-bat{width:6.7cqw;height:3.23cqw}
+.phone-foot{position:absolute;left:0;right:0;bottom:0;display:flex;align-items:center;gap:2.2cqw;padding:10cqw 4cqw 7.5cqw;color:#fff;z-index:2;pointer-events:none;background:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,.5))}
+.ad-avatar{flex:none;width:8cqw;height:8cqw;border-radius:50%;background:#1F3B2D;color:#E9D9A6;display:grid;place-items:center;font:400 4.6cqw/1 var(--serif);box-shadow:0 0 0 .4cqw rgba(255,255,255,.8)}
+.ad-name{display:flex;flex-direction:column;gap:.5cqw;font:600 3.5cqw/1.1 var(--sans)}
+.ad-name small{font:400 2.9cqw/1 var(--sans);color:rgba(255,255,255,.75)}
+.sound-toggle{position:absolute;right:4cqw;bottom:8cqw;z-index:3;width:8cqw;height:8cqw;min-width:32px;min-height:32px;border-radius:50%;border:0;background:rgba(22,19,15,.55);backdrop-filter:blur(6px);color:#fff;display:grid;place-items:center;cursor:pointer;padding:0}
+.sound-toggle .ico{width:4.2cqw;height:4.2cqw;min-width:15px;min-height:15px;stroke-width:2}
+.cut-sound .ico{width:19px;height:19px}
 [aria-pressed="false"] .wave{display:none}
 [aria-pressed="true"] .mute{display:none}
-.progress{position:absolute;left:18px;right:18px;bottom:20px;z-index:3;height:2px;border-radius:2px;background:rgba(255,255,255,.28);overflow:hidden}
+.progress{position:absolute;left:4.5cqw;right:4.5cqw;bottom:5cqw;z-index:3;height:.6cqw;border-radius:1cqw;background:rgba(255,255,255,.28);overflow:hidden}
 .progress span{display:block;height:100%;width:0;background:#fff}
-.home-bar{position:absolute;left:50%;bottom:7px;z-index:3;transform:translateX(-50%);width:36%;height:4px;border-radius:3px;background:rgba(255,255,255,.85)}
+.home-bar{position:absolute;left:50%;bottom:2cqw;z-index:3;transform:translateX(-50%);width:34.6cqw;height:1.25cqw;border-radius:1cqw;background:rgba(255,255,255,.85)}
 .phone figcaption{font-size:13px;color:var(--papel-60);text-align:center}
 
 /* ---------- Secciones ---------- */
