@@ -1,7 +1,13 @@
 /* Roda.do — interacciones del sitio */
 (() => {
   const WA_NUMBER = "17853178070";
-  const WA_TEXT = "Hola Roda.do, quiero mis 3 anuncios para mi producto.";
+  const SRC = {instagram: "Instagram", facebook: "Facebook", whatsapp: "WhatsApp"};
+  const utm = new URLSearchParams(location.search).get("utm_source");
+  try { if (utm) sessionStorage.setItem("roda_src", utm); } catch (_) {}
+  let src = utm;
+  try { src = src || sessionStorage.getItem("roda_src"); } catch (_) {}
+  const via = src && SRC[src.toLowerCase()] ? ` (vía ${SRC[src.toLowerCase()]})` : "";
+  const WA_TEXT = `Hola Roda, quiero mis 3 anuncios para mi producto.${via}`;
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   // WhatsApp links con mensaje prellenado
@@ -9,6 +15,9 @@
     a.href = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(WA_TEXT)}`;
     a.target = "_blank";
     a.rel = "noopener";
+    a.addEventListener("click", () => {
+      if (window.fbq) fbq("track", "Contact", { content_name: a.dataset.wa || "whatsapp", source: src || "directo" });
+    });
   });
 
   const year = document.querySelector("[data-year]");
