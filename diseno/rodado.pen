@@ -1744,6 +1744,9 @@
                     {
                       "type": "text",
                       "id": "l65WP7",
+                      "layoutPosition": "absolute",
+                      "x": 0,
+                      "y": 632,
                       "name": "Ejemplo real de 30 s · G",
                       "fill": "#F5EFE49E",
                       "textGrowth": "fixed-width",
@@ -5003,7 +5006,7 @@
                   "id": "CV1OG",
                   "name": "© 2026 Roda.do",
                   "fill": "#F5EFE4A6",
-                  "content": "© 2026 Roda.do",
+                  "content": "© 2026 Roda",
                   "fontFamily": "$font-texto",
                   "fontSize": 14,
                   "fontWeight": "normal"
@@ -8582,7 +8585,7 @@
                   "id": "Th9dW",
                   "name": "© 2026 Roda.do",
                   "fill": "#F5EFE4A6",
-                  "content": "© 2026 Roda.do",
+                  "content": "© 2026 Roda",
                   "fontFamily": "$font-texto",
                   "fontSize": 14,
                   "fontWeight": "normal"
@@ -10753,7 +10756,7 @@
                       "id": "X7d3FY",
                       "layoutPosition": "absolute",
                       "x": 66,
-                      "y": 1230,
+                      "y": 1262,
                       "name": "Ejemplo miniaturas",
                       "gap": 24,
                       "children": [
@@ -10854,7 +10857,7 @@
                       "id": "FQCXB",
                       "layoutPosition": "absolute",
                       "x": 72,
-                      "y": 1172,
+                      "y": 1168,
                       "name": "Etiqueta ejemplo",
                       "fill": "$tinta",
                       "cornerRadius": 999,
