@@ -1,4 +1,4 @@
-/* Roda.do — interacciones del sitio */
+/* Rodado Creativo — interacciones del sitio */
 (() => {
   const WA_NUMBER = "17853178070";
   const SRC = {instagram: "Instagram", facebook: "Facebook", whatsapp: "WhatsApp"};

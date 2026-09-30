@@ -1,4 +1,4 @@
-# Sitio web de Roda.do
+# Sitio web de Rodado Creativo
 
 Sitio estático (HTML + CSS + JS, sin dependencias ni build).
 
