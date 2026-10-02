@@ -10,7 +10,7 @@
   --tinta:#16130F; --tinta2:#221E19; --papel:#F5EFE4; --arena:#E9E0D1; --rec:#E23D2A; --rec-h:#C9311F;
   --humo:#6E665B; --linea:#D8CDBB;
   --papel-70:rgba(245,239,228,.7); --papel-60:rgba(245,239,228,.62); --papel-18:rgba(245,239,228,.18); --papel-12:rgba(245,239,228,.12);
-  --serif:"Instrument Serif",Georgia,serif; --sans:Inter,system-ui,-apple-system,"Segoe UI",sans-serif; --mono:"JetBrains Mono",ui-monospace,monospace;
+  --serif:"Instrument Serif",Georgia,serif; --sans:Inter,system-ui,-apple-system,"Segoe UI",sans-serif; --mono:"JetBrains Mono",ui-monospace,monospace; --ig:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
   --gutter:clamp(20px,5.5vw,80px); --max:1440px;
   --sec-y:clamp(72px,9vw,120px);
 }
@@ -33,7 +33,7 @@ em{font-style:italic}
 .rec{width:9px;height:9px;border-radius:50%;background:var(--rec);flex:none;display:inline-block}
 .rec-blink{animation:blink 1.4s steps(1) infinite}
 @keyframes blink{50%{opacity:.15}}
-.display{font:400 clamp(58px,8.4vw,124px)/.95 var(--serif);letter-spacing:-.012em;color:var(--papel)}
+.display{font:400 clamp(44px,5.9vw,92px)/.98 var(--serif);letter-spacing:-.012em;color:var(--papel)}
 .display em,.h2 em{color:var(--rec)}
 .h2{font:400 clamp(46px,6.6vw,96px)/1 var(--serif);letter-spacing:-.012em}
 .lead{font-size:clamp(16px,1.5vw,21px);line-height:1.5;color:var(--papel-70);max-width:560px}
@@ -106,8 +106,8 @@ em{font-style:italic}
 .st-bat{width:6.7cqw;height:3.23cqw}
 .phone-foot{position:absolute;left:0;right:0;bottom:0;display:flex;align-items:center;gap:2.2cqw;padding:10cqw 4cqw 7.5cqw;color:#fff;z-index:2;pointer-events:none;background:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,.5))}
 .ad-avatar{flex:none;width:8cqw;height:8cqw;border-radius:50%;background:#1F3B2D;color:#E9D9A6;display:grid;place-items:center;font:400 4.6cqw/1 var(--serif);box-shadow:0 0 0 .4cqw rgba(255,255,255,.8)}
-.ad-name{display:flex;flex-direction:column;gap:.5cqw;font:600 3.5cqw/1.1 var(--sans)}
-.ad-name small{font:400 2.9cqw/1 var(--sans);color:rgba(255,255,255,.75)}
+.ad-name{display:flex;flex-direction:column;gap:.6cqw;font:600 3.5cqw/1.1 var(--ig)}
+.ad-name small{font:400 3.1cqw/1 var(--ig);color:rgba(255,255,255,.88)}
 .sound-toggle{position:absolute;right:4cqw;bottom:8cqw;z-index:3;width:8cqw;height:8cqw;min-width:32px;min-height:32px;border-radius:50%;border:0;background:rgba(22,19,15,.55);backdrop-filter:blur(6px);color:#fff;display:grid;place-items:center;cursor:pointer;padding:0}
 .sound-toggle .ico{width:4.2cqw;height:4.2cqw;min-width:15px;min-height:15px;stroke-width:2}
 .cut-sound .ico{width:19px;height:19px}
@@ -135,8 +135,13 @@ em{font-style:italic}
 .cut:nth-child(2) .cut-frame{width:190px}
 .cut:nth-child(3) .cut-frame{width:160px}
 .cut-frame{position:relative;aspect-ratio:9/16;border-radius:14px;overflow:hidden;background:var(--tinta)}
+.cut-frame::after{content:"";position:absolute;left:0;right:0;bottom:0;height:34%;background:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,.45));pointer-events:none;z-index:1}
+.cut-ad{position:absolute;left:10px;bottom:11px;z-index:2;display:flex;align-items:center;gap:7px;color:#fff;pointer-events:none}
+.cut-av{flex:none;width:22px;height:22px;border-radius:50%;background:#1F3B2D;color:#E9D9A6;display:grid;place-items:center;font:400 13px/1 var(--serif);box-shadow:0 0 0 1.5px rgba(255,255,255,.8)}
+.cut-ad .ad-name{gap:2px;font:600 11px/1.15 var(--ig)}
+.cut-ad .ad-name small{font:400 10px/1 var(--ig)}
 .cut-frame video{width:100%;height:100%;object-fit:cover}
-.cut-sound{position:absolute;right:8px;bottom:8px;width:36px;height:36px;border-radius:50%;border:0;background:rgba(22,19,15,.6);color:#fff;display:grid;place-items:center;cursor:pointer}
+.cut-sound{z-index:3;position:absolute;right:8px;bottom:8px;width:36px;height:36px;border-radius:50%;border:0;background:rgba(22,19,15,.6);color:#fff;display:grid;place-items:center;cursor:pointer}
 .cut figcaption{display:flex;flex-direction:column;gap:2px}
 .cut strong{font:400 30px/1 var(--serif)}
 .cut figcaption span{font-size:14px;color:var(--humo)}

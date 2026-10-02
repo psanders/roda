@@ -1153,9 +1153,9 @@
                         {
                           "type": "text",
                           "id": "QzCHa",
-                          "name": "ANUNCIOS 9:16 PARA PRODU",
+                          "name": "SOLO ANUNCIOS PAGADOS · META ADS",
                           "fill": "#F5EFE49E",
-                          "content": "ANUNCIOS 9:16 PARA PRODUCTOS",
+                          "content": "SOLO ANUNCIOS PAGADOS · META ADS",
                           "fontFamily": "$font-mono",
                           "fontSize": 13,
                           "fontWeight": "normal",
@@ -1172,24 +1172,24 @@
                         {
                           "type": "text",
                           "id": "yeNt6",
-                          "name": "Anuncios que",
+                          "name": "Videos para anuncios",
                           "fill": "$papel",
-                          "content": "Anuncios que",
+                          "content": "Videos para anuncios",
                           "lineHeight": 0.95,
                           "fontFamily": "$font-titulo",
-                          "fontSize": 120,
+                          "fontSize": 88,
                           "fontWeight": "normal",
                           "letterSpacing": -1.5
                         },
                         {
                           "type": "text",
                           "id": "F7Iuo6",
-                          "name": "dan hambre.",
+                          "name": "en Instagram y Facebook Ads.",
                           "fill": "$rec",
-                          "content": "dan hambre.",
+                          "content": "en Instagram y Facebook Ads.",
                           "lineHeight": 0.95,
                           "fontFamily": "$font-titulo",
-                          "fontSize": 120,
+                          "fontSize": 88,
                           "fontWeight": "normal",
                           "letterSpacing": -1.5,
                           "fontStyle": "italic"
@@ -1199,11 +1199,11 @@
                     {
                       "type": "text",
                       "id": "Iy6Jp",
-                      "name": "Anuncios verticales para",
+                      "name": "Videos verticales 9:16 para pautar en Instagram y Facebook, ",
                       "fill": "#F5EFE4B3",
                       "textGrowth": "fixed-width",
                       "width": 560,
-                      "content": "Anuncios verticales para Instagram y Facebook, creados con IA a partir de tu producto real. Una historia, tres cortes, listos para pautar.",
+                      "content": "Videos verticales 9:16 para colocar como anuncios en Instagram y Facebook, creados con IA a partir de tu producto real. Una historia, tres cortes. Solo anuncios pagados, no contenido orgánico.",
                       "lineHeight": 1.5,
                       "fontFamily": "$font-texto",
                       "fontSize": 21,
@@ -1666,11 +1666,11 @@
                                     {
                                       "type": "text",
                                       "id": "rH9R6",
-                                      "name": "Patrocinado",
-                                      "fill": "#FFFFFFBF",
-                                      "content": "Patrocinado",
+                                      "name": "Ad",
+                                      "fill": "#FFFFFFE0",
+                                      "content": "Ad",
                                       "fontFamily": "$font-texto",
-                                      "fontSize": 8,
+                                      "fontSize": 9.2,
                                       "fontWeight": "normal"
                                     }
                                   ]
@@ -5211,9 +5211,9 @@
                     {
                       "type": "text",
                       "id": "eyXUI",
-                      "name": "ANUNCIOS 9:16 PARA PRODU",
+                      "name": "SOLO ANUNCIOS PAGADOS · META ADS",
                       "fill": "#F5EFE49E",
-                      "content": "ANUNCIOS 9:16 PARA PRODUCTOS",
+                      "content": "SOLO ANUNCIOS PAGADOS · META ADS",
                       "fontFamily": "$font-mono",
                       "fontSize": 11,
                       "fontWeight": "normal",
@@ -5231,28 +5231,28 @@
                     {
                       "type": "text",
                       "id": "hhNj0",
-                      "name": "Anuncios que",
+                      "name": "Videos para anuncios",
                       "fill": "$papel",
                       "textGrowth": "fixed-width",
                       "width": "fill_container",
-                      "content": "Anuncios que",
+                      "content": "Videos para anuncios",
                       "lineHeight": 0.95,
                       "fontFamily": "$font-titulo",
-                      "fontSize": 58,
+                      "fontSize": 42,
                       "fontWeight": "normal",
                       "letterSpacing": -0.8
                     },
                     {
                       "type": "text",
                       "id": "LYgQy",
-                      "name": "dan hambre.",
+                      "name": "en Instagram y Facebook Ads.",
                       "fill": "$rec",
                       "textGrowth": "fixed-width",
                       "width": "fill_container",
-                      "content": "dan hambre.",
+                      "content": "en Instagram y Facebook Ads.",
                       "lineHeight": 0.95,
                       "fontFamily": "$font-titulo",
-                      "fontSize": 58,
+                      "fontSize": 42,
                       "fontWeight": "normal",
                       "letterSpacing": -0.8,
                       "fontStyle": "italic"
@@ -5262,11 +5262,11 @@
                 {
                   "type": "text",
                   "id": "n25JL",
-                  "name": "Anuncios verticales para",
+                  "name": "Videos verticales 9:16 para pautar en Instagram y Facebook, ",
                   "fill": "#F5EFE4B3",
                   "textGrowth": "fixed-width",
                   "width": "fill_container",
-                  "content": "Anuncios verticales para Instagram y Facebook, creados con IA a partir de tu producto real. Una historia, tres cortes, listos para pautar.",
+                  "content": "Videos verticales 9:16 para colocar como anuncios en Instagram y Facebook, creados con IA a partir de tu producto real. Una historia, tres cortes. Solo anuncios pagados, no contenido orgánico.",
                   "lineHeight": 1.55,
                   "fontFamily": "$font-texto",
                   "fontSize": 16,
@@ -5726,11 +5726,11 @@
                                 {
                                   "type": "text",
                                   "id": "qC6pT",
-                                  "name": "Patrocinado",
-                                  "fill": "#FFFFFFBF",
-                                  "content": "Patrocinado",
+                                  "name": "Ad",
+                                  "fill": "#FFFFFFE0",
+                                  "content": "Ad",
                                   "fontFamily": "$font-texto",
-                                  "fontSize": 7.4,
+                                  "fontSize": 8.5,
                                   "fontWeight": "normal"
                                 }
                               ]
@@ -8704,510 +8704,6 @@
                   "fontFamily": "$font-texto",
                   "fontSize": 14,
                   "fontWeight": "normal"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "frame",
-      "id": "KkmY4",
-      "x": 0,
-      "y": 1310,
-      "name": "OG · 1200×630",
-      "clip": true,
-      "width": 1200,
-      "height": 630,
-      "fill": "$tinta",
-      "gap": 40,
-      "padding": [
-        0,
-        110,
-        0,
-        80
-      ],
-      "justifyContent": "space_between",
-      "alignItems": "center",
-      "children": [
-        {
-          "type": "frame",
-          "id": "Gk9d3",
-          "name": "Texto",
-          "width": "fill_container",
-          "layout": "vertical",
-          "gap": 26,
-          "children": [
-            {
-              "type": "frame",
-              "id": "AYxAW",
-              "name": "Logo",
-              "alignItems": "end",
-              "children": [
-                {
-                  "type": "text",
-                  "id": "O5ytn",
-                  "name": "roda",
-                  "fill": "$papel",
-                  "content": "roda",
-                  "lineHeight": 1,
-                  "fontFamily": "$font-titulo",
-                  "fontSize": 44,
-                  "fontWeight": "normal"
-                },
-                {
-                  "type": "frame",
-                  "id": "geDG8",
-                  "name": "REC dot",
-                  "padding": [
-                    0,
-                    2,
-                    9,
-                    3
-                  ],
-                  "children": [
-                    {
-                      "type": "ellipse",
-                      "id": "KIMx7",
-                      "name": "Dot",
-                      "fill": "$rec",
-                      "width": 8,
-                      "height": 8
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "id": "Y9J1uJ",
-                  "name": "do",
-                  "fill": "$papel",
-                  "content": "do",
-                  "lineHeight": 1,
-                  "fontFamily": "$font-titulo",
-                  "fontSize": 44,
-                  "fontWeight": "normal"
-                }
-              ]
-            },
-            {
-              "type": "frame",
-              "id": "iJO4e",
-              "name": "Titular",
-              "width": "fill_container",
-              "layout": "vertical",
-              "children": [
-                {
-                  "type": "text",
-                  "id": "DTrHA",
-                  "name": "Anuncios que",
-                  "fill": "$papel",
-                  "content": "Anuncios que",
-                  "lineHeight": 0.95,
-                  "fontFamily": "$font-titulo",
-                  "fontSize": 108,
-                  "fontWeight": "normal",
-                  "letterSpacing": -1.4
-                },
-                {
-                  "type": "text",
-                  "id": "WJqn0",
-                  "name": "dan hambre.",
-                  "fill": "$rec",
-                  "content": "dan hambre.",
-                  "lineHeight": 0.95,
-                  "fontFamily": "$font-titulo",
-                  "fontSize": 108,
-                  "fontWeight": "normal",
-                  "letterSpacing": -1.4,
-                  "fontStyle": "italic"
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "id": "f7463",
-              "name": "Bajada",
-              "fill": "#F5EFE4B3",
-              "textGrowth": "fixed-width",
-              "width": "fill_container",
-              "content": "1 anuncio 9:16 en 3 duraciones (30, 20 y 15 s) para Instagram y Facebook, creado con IA a partir de tu producto real.",
-              "lineHeight": 1.45,
-              "fontFamily": "$font-texto",
-              "fontSize": 22,
-              "fontWeight": "normal"
-            },
-            {
-              "type": "frame",
-              "id": "yhGoe",
-              "name": "Datos",
-              "gap": 14,
-              "alignItems": "center",
-              "children": [
-                {
-                  "type": "ellipse",
-                  "id": "Z6iOhh",
-                  "name": "REC",
-                  "fill": "$rec",
-                  "width": 10,
-                  "height": 10
-                },
-                {
-                  "type": "text",
-                  "id": "zYmfq",
-                  "name": "Datos txt",
-                  "fill": "#F5EFE49E",
-                  "content": "30 · 20 · 15 S   ·   US$299   ·   RODA.DO",
-                  "fontFamily": "$font-mono",
-                  "fontSize": 15,
-                  "fontWeight": "normal",
-                  "letterSpacing": 2.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "frame",
-          "id": "T5ISc",
-          "name": "Teléfono",
-          "height": 630,
-          "layout": "vertical",
-          "padding": [
-            64,
-            0,
-            0,
-            0
-          ],
-          "children": [
-            {
-              "type": "frame",
-              "id": "qjhpR",
-              "name": "Marco",
-              "width": 290,
-              "fill": {
-                "type": "gradient",
-                "gradientType": "linear",
-                "enabled": true,
-                "rotation": 135,
-                "size": {
-                  "height": 1
-                },
-                "colors": [
-                  {
-                    "color": "#8D867C",
-                    "position": 0
-                  },
-                  {
-                    "color": "#3B3631",
-                    "position": 0.18
-                  },
-                  {
-                    "color": "#1B1815",
-                    "position": 0.5
-                  },
-                  {
-                    "color": "#3B3631",
-                    "position": 0.82
-                  },
-                  {
-                    "color": "#8D867C",
-                    "position": 1
-                  }
-                ]
-              },
-              "cornerRadius": 44,
-              "effect": {
-                "type": "shadow",
-                "shadowType": "outer",
-                "color": "#00000099",
-                "offset": {
-                  "x": 0,
-                  "y": 40
-                },
-                "blur": 90
-              },
-              "layout": "vertical",
-              "padding": 6,
-              "children": [
-                {
-                  "type": "frame",
-                  "id": "IjHeg",
-                  "name": "Pantalla 402×874 pt (video a pantalla completa)",
-                  "clip": true,
-                  "width": 278,
-                  "height": 604,
-                  "fill": {
-                    "type": "image",
-                    "enabled": true,
-                    "url": "imagenes/escenas/F_cierre.jpg",
-                    "mode": "fill"
-                  },
-                  "cornerRadius": 38,
-                  "layout": "none",
-                  "children": [
-                    {
-                      "type": "frame",
-                      "id": "OXkyl",
-                      "x": 0,
-                      "y": 0,
-                      "name": "Sombra superior",
-                      "width": 278,
-                      "height": 37.3,
-                      "fill": {
-                        "type": "gradient",
-                        "gradientType": "linear",
-                        "enabled": true,
-                        "rotation": 180,
-                        "size": {
-                          "height": 1
-                        },
-                        "colors": [
-                          {
-                            "color": "#00000059",
-                            "position": 0
-                          },
-                          {
-                            "color": "#00000000",
-                            "position": 1
-                          }
-                        ]
-                      },
-                      "layout": "none"
-                    },
-                    {
-                      "type": "frame",
-                      "id": "V8wRnN",
-                      "x": 95,
-                      "y": 7.6,
-                      "name": "Dynamic Island",
-                      "width": 87.1,
-                      "height": 25.6,
-                      "fill": "#000000",
-                      "cornerRadius": 12.8
-                    },
-                    {
-                      "type": "frame",
-                      "id": "a6HUg",
-                      "x": 0,
-                      "y": 13,
-                      "name": "Hora",
-                      "width": 95,
-                      "height": 15.2,
-                      "justifyContent": "center",
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "text",
-                          "id": "g2ndk9",
-                          "name": "9:41",
-                          "fill": "#FFFFFF",
-                          "content": "9:41",
-                          "fontFamily": "$font-texto",
-                          "fontSize": 11.8,
-                          "fontWeight": "600"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "EyloK",
-                      "x": 182.1,
-                      "y": 13,
-                      "name": "Iconos de estado",
-                      "width": 95,
-                      "height": 15.2,
-                      "gap": 4.1,
-                      "justifyContent": "center",
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "icon",
-                          "id": "Q2cVFo",
-                          "name": "Señal",
-                          "width": 11.8,
-                          "height": 11.8,
-                          "icon": "signal",
-                          "library": "lucide",
-                          "fill": "#FFFFFF"
-                        },
-                        {
-                          "type": "icon",
-                          "id": "AQph8",
-                          "name": "Wi-Fi",
-                          "width": 11.1,
-                          "height": 11.1,
-                          "icon": "wifi",
-                          "library": "lucide",
-                          "fill": "#FFFFFF"
-                        },
-                        {
-                          "type": "icon",
-                          "id": "dO4hS",
-                          "name": "Batería",
-                          "width": 18.7,
-                          "height": 18.7,
-                          "icon": "battery-full",
-                          "library": "lucide",
-                          "fill": "#FFFFFF"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "pu3nl",
-                      "x": 0,
-                      "y": 500.3,
-                      "name": "Sombra inferior",
-                      "width": 278,
-                      "height": 103.7,
-                      "fill": {
-                        "type": "gradient",
-                        "gradientType": "linear",
-                        "enabled": true,
-                        "rotation": 0,
-                        "size": {
-                          "height": 1
-                        },
-                        "colors": [
-                          {
-                            "color": "#00000080",
-                            "position": 0
-                          },
-                          {
-                            "color": "#00000000",
-                            "position": 1
-                          }
-                        ]
-                      },
-                      "layout": "none"
-                    },
-                    {
-                      "type": "frame",
-                      "id": "ABM58",
-                      "x": 11.1,
-                      "y": 556,
-                      "name": "Cuenta",
-                      "gap": 6.2,
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "frame",
-                          "id": "W1d0c",
-                          "name": "Avatar",
-                          "width": 22.1,
-                          "height": 22.1,
-                          "fill": "#1F3B2D",
-                          "cornerRadius": 11.05,
-                          "stroke": "#FFFFFFCC",
-                          "strokeWidth": 1.5,
-                          "justifyContent": "center",
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "text",
-                              "id": "L30AP",
-                              "name": "G",
-                              "fill": "#E9D9A6",
-                              "content": "G",
-                              "fontFamily": "$font-titulo",
-                              "fontSize": 12.4,
-                              "fontWeight": "normal"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "CDkxV",
-                          "name": "Nombre",
-                          "layout": "vertical",
-                          "gap": 2,
-                          "children": [
-                            {
-                              "type": "text",
-                              "id": "bnqmZ",
-                              "name": "guaraguao.do",
-                              "fill": "#FFFFFF",
-                              "content": "guaraguao.do",
-                              "fontFamily": "$font-texto",
-                              "fontSize": 9.7,
-                              "fontWeight": "600"
-                            },
-                            {
-                              "type": "text",
-                              "id": "UHHIZ",
-                              "name": "Patrocinado",
-                              "fill": "#FFFFFFBF",
-                              "content": "Patrocinado",
-                              "fontFamily": "$font-texto",
-                              "fontSize": 8,
-                              "fontWeight": "normal"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "dLmEB",
-                      "x": 245,
-                      "y": 560,
-                      "name": "Botón sonido",
-                      "width": 22.1,
-                      "height": 22.1,
-                      "fill": "#16130F8C",
-                      "cornerRadius": 11.05,
-                      "justifyContent": "center",
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "icon",
-                          "id": "vf7d5",
-                          "name": "Silenciado",
-                          "width": 11.8,
-                          "height": 11.8,
-                          "icon": "volume-x",
-                          "library": "lucide",
-                          "fill": "#FFFFFF"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "rFwfx",
-                      "x": 12.4,
-                      "y": 590.2,
-                      "name": "Progreso",
-                      "width": 253.2,
-                      "height": 2,
-                      "fill": "#FFFFFF47",
-                      "cornerRadius": 1,
-                      "layout": "none",
-                      "children": [
-                        {
-                          "type": "frame",
-                          "id": "rRvhf",
-                          "x": 0,
-                          "y": 0,
-                          "name": "Avance",
-                          "width": 101,
-                          "height": 2,
-                          "fill": "#FFFFFF"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "j2tayX",
-                      "x": 91,
-                      "y": 595,
-                      "name": "Barra de inicio",
-                      "width": 96.1,
-                      "height": 3.5,
-                      "fill": "#FFFFFFD9",
-                      "cornerRadius": 1.7
-                    }
-                  ]
                 }
               ]
             }
@@ -12363,7 +11859,7 @@
     },
     {
       "type": "frame",
-      "id": "PDC3p",
+      "id": "QKbi3",
       "x": 4937,
       "y": 7700,
       "name": "Campaña · LATAM · Comida y bebida",
@@ -12374,7 +11870,7 @@
       "children": [
         {
           "type": "text",
-          "id": "uw3wk",
+          "id": "k7F6d",
           "name": "Encabezado",
           "fill": "$tinta",
           "content": "CAMPAÑA LATAM · US$299 · 9:16 · 1080 × 1920 · TEXTO ENTRE Y=270 Y Y=1650",
@@ -12385,20 +11881,20 @@
         },
         {
           "type": "frame",
-          "id": "LxLME",
+          "id": "UktIr",
           "name": "Fila · Estáticos",
           "gap": 100,
           "children": [
             {
               "type": "frame",
-              "id": "JE8qg",
+              "id": "NtDS7",
               "name": "C2 · 3 duraciones · Story 9:16",
               "clip": true,
               "width": 1080,
               "height": 1920,
               "fill": "$papel",
               "layout": "vertical",
-              "gap": 34,
+              "gap": 30,
               "padding": [
                 280,
                 72
@@ -12406,8 +11902,36 @@
               "justifyContent": "center",
               "children": [
                 {
+                  "type": "frame",
+                  "id": "R1Lt9",
+                  "name": "Kicker · solo ads",
+                  "gap": 14,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "ellipse",
+                      "id": "xLUma",
+                      "name": "Dot",
+                      "fill": "$rec",
+                      "width": 12,
+                      "height": 12
+                    },
+                    {
+                      "type": "text",
+                      "id": "D5HXZ",
+                      "name": "VIDEOS PARA ANUNCIOS EN INSTAGRAM Y FACE",
+                      "fill": "$humo",
+                      "content": "VIDEOS PARA ANUNCIOS EN INSTAGRAM Y FACEBOOK ADS",
+                      "fontFamily": "$font-mono",
+                      "fontSize": 22,
+                      "fontWeight": "normal",
+                      "letterSpacing": 3
+                    }
+                  ]
+                },
+                {
                   "type": "text",
-                  "id": "xLUma",
+                  "id": "vMSNR",
                   "name": "Para quién",
                   "fill": "$tinta",
                   "textGrowth": "fixed-width",
@@ -12419,14 +11943,14 @@
                 },
                 {
                   "type": "frame",
-                  "id": "vMSNR",
+                  "id": "z6AHQ",
                   "name": "Titular",
                   "width": "fill_container",
                   "layout": "vertical",
                   "children": [
                     {
                       "type": "text",
-                      "id": "D5HXZ",
+                      "id": "dGf6U",
                       "name": "1 anuncio.",
                       "fill": "$tinta",
                       "textGrowth": "fixed-width",
@@ -12434,13 +11958,13 @@
                       "content": "1 anuncio.",
                       "lineHeight": 0.95,
                       "fontFamily": "$font-titulo",
-                      "fontSize": 150,
+                      "fontSize": 136,
                       "fontWeight": "normal",
                       "letterSpacing": -2
                     },
                     {
                       "type": "text",
-                      "id": "R1Lt9",
+                      "id": "EvQv4",
                       "name": "3 duraciones.",
                       "fill": "$rec",
                       "textGrowth": "fixed-width",
@@ -12448,7 +11972,7 @@
                       "content": "3 duraciones.",
                       "lineHeight": 0.95,
                       "fontFamily": "$font-titulo",
-                      "fontSize": 150,
+                      "fontSize": 136,
                       "fontWeight": "normal",
                       "letterSpacing": -2,
                       "fontStyle": "italic"
@@ -12457,7 +11981,7 @@
                 },
                 {
                   "type": "text",
-                  "id": "dGf6U",
+                  "id": "u05S7",
                   "name": "Bajada",
                   "fill": "$humo",
                   "textGrowth": "fixed-width",
@@ -12469,7 +11993,7 @@
                 },
                 {
                   "type": "frame",
-                  "id": "Q5sxQ",
+                  "id": "wimrs",
                   "name": "Ejemplo",
                   "width": "fill_container",
                   "layout": "vertical",
@@ -12477,14 +12001,14 @@
                   "children": [
                     {
                       "type": "frame",
-                      "id": "u05S7",
+                      "id": "4hxgc",
                       "name": "Etiqueta ejemplo",
                       "gap": 12,
                       "alignItems": "center",
                       "children": [
                         {
                           "type": "ellipse",
-                          "id": "EvQv4",
+                          "id": "p9zZY",
                           "name": "Dot",
                           "fill": "$rec",
                           "width": 10,
@@ -12492,7 +12016,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "z6AHQ",
+                          "id": "z7Q9m",
                           "name": "EJEMPLO · MARCA FICTICIA",
                           "fill": "$humo",
                           "content": "EJEMPLO · MARCA FICTICIA",
@@ -12505,14 +12029,14 @@
                     },
                     {
                       "type": "frame",
-                      "id": "S6wqm",
+                      "id": "jW9u1",
                       "name": "Cortes",
                       "width": "fill_container",
                       "gap": 24,
                       "children": [
                         {
                           "type": "frame",
-                          "id": "zXePp",
+                          "id": "utpSk",
                           "name": "Corte 30 S",
                           "width": 296,
                           "layout": "vertical",
@@ -12520,7 +12044,7 @@
                           "children": [
                             {
                               "type": "frame",
-                              "id": "p9zZY",
+                              "id": "RSXiM",
                               "name": "Teléfono",
                               "width": 296,
                               "fill": {
@@ -12570,7 +12094,7 @@
                               "children": [
                                 {
                                   "type": "frame",
-                                  "id": "z7Q9m",
+                                  "id": "mkeQZ",
                                   "name": "Pantalla",
                                   "clip": true,
                                   "width": 284,
@@ -12586,7 +12110,7 @@
                                   "children": [
                                     {
                                       "type": "frame",
-                                      "id": "4hxgc",
+                                      "id": "VqRWF",
                                       "x": 102,
                                       "y": 9,
                                       "name": "Dynamic Island",
@@ -12594,6 +12118,101 @@
                                       "height": 23,
                                       "fill": "#000000",
                                       "cornerRadius": 11.5
+                                    },
+                                    {
+                                      "type": "frame",
+                                      "id": "zXePp",
+                                      "x": 0,
+                                      "y": 354,
+                                      "name": "Sombra inferior",
+                                      "width": 284,
+                                      "height": 152,
+                                      "fill": {
+                                        "type": "gradient",
+                                        "gradientType": "linear",
+                                        "enabled": true,
+                                        "rotation": 0,
+                                        "size": {
+                                          "height": 1
+                                        },
+                                        "colors": [
+                                          {
+                                            "color": "#00000080",
+                                            "position": 0
+                                          },
+                                          {
+                                            "color": "#00000000",
+                                            "position": 1
+                                          }
+                                        ]
+                                      },
+                                      "layout": "none"
+                                    },
+                                    {
+                                      "type": "frame",
+                                      "id": "cNaTw",
+                                      "layoutPosition": "absolute",
+                                      "x": 12,
+                                      "y": 449,
+                                      "name": "Cuenta · Ad (estilo Instagram)",
+                                      "gap": 9,
+                                      "alignItems": "center",
+                                      "children": [
+                                        {
+                                          "type": "frame",
+                                          "id": "3nk4r",
+                                          "name": "Avatar",
+                                          "width": 30,
+                                          "height": 30,
+                                          "fill": "#1F3B2D",
+                                          "cornerRadius": 15,
+                                          "stroke": "#FFFFFFCC",
+                                          "strokeWidth": 1.6666666666666667,
+                                          "justifyContent": "center",
+                                          "alignItems": "center",
+                                          "children": [
+                                            {
+                                              "type": "text",
+                                              "id": "qKBd1",
+                                              "name": "G",
+                                              "fill": "#E9D9A6",
+                                              "content": "G",
+                                              "fontFamily": "$font-titulo",
+                                              "fontSize": 16,
+                                              "fontWeight": "normal"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "type": "frame",
+                                          "id": "6ab9N",
+                                          "name": "Nombre",
+                                          "layout": "vertical",
+                                          "gap": 2,
+                                          "children": [
+                                            {
+                                              "type": "text",
+                                              "id": "jTYGN",
+                                              "name": "guaraguao.do",
+                                              "fill": "#FFFFFF",
+                                              "content": "guaraguao.do",
+                                              "fontFamily": "Inter",
+                                              "fontSize": 16,
+                                              "fontWeight": "600"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "id": "vJ9V3",
+                                              "name": "Ad",
+                                              "fill": "#FFFFFFE0",
+                                              "content": "Ad",
+                                              "fontFamily": "Inter",
+                                              "fontSize": 15,
+                                              "fontWeight": "normal"
+                                            }
+                                          ]
+                                        }
+                                      ]
                                     }
                                   ]
                                 }
@@ -12601,14 +12220,14 @@
                             },
                             {
                               "type": "frame",
-                              "id": "VqRWF",
+                              "id": "FtldM",
                               "name": "Leyenda",
                               "layout": "vertical",
                               "gap": 6,
                               "children": [
                                 {
                                   "type": "text",
-                                  "id": "RSXiM",
+                                  "id": "zdHPH",
                                   "name": "Duración",
                                   "fill": "$rec",
                                   "content": "30 S",
@@ -12619,7 +12238,7 @@
                                 },
                                 {
                                   "type": "text",
-                                  "id": "mkeQZ",
+                                  "id": "5Oa40",
                                   "name": "Descripción",
                                   "fill": "$humo",
                                   "content": "Historia completa",
@@ -12633,7 +12252,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "zdHPH",
+                          "id": "uWRRV",
                           "name": "Corte 20 S",
                           "width": 296,
                           "layout": "vertical",
@@ -12641,7 +12260,7 @@
                           "children": [
                             {
                               "type": "frame",
-                              "id": "qKBd1",
+                              "id": "jNmNt",
                               "name": "Teléfono",
                               "width": 296,
                               "fill": {
@@ -12691,7 +12310,7 @@
                               "children": [
                                 {
                                   "type": "frame",
-                                  "id": "3nk4r",
+                                  "id": "dS0Kn",
                                   "name": "Pantalla",
                                   "clip": true,
                                   "width": 284,
@@ -12707,7 +12326,7 @@
                                   "children": [
                                     {
                                       "type": "frame",
-                                      "id": "jTYGN",
+                                      "id": "VDPvS",
                                       "x": 102,
                                       "y": 9,
                                       "name": "Dynamic Island",
@@ -12715,6 +12334,101 @@
                                       "height": 23,
                                       "fill": "#000000",
                                       "cornerRadius": 11.5
+                                    },
+                                    {
+                                      "type": "frame",
+                                      "id": "ZrRFK",
+                                      "x": 0,
+                                      "y": 354,
+                                      "name": "Sombra inferior",
+                                      "width": 284,
+                                      "height": 152,
+                                      "fill": {
+                                        "type": "gradient",
+                                        "gradientType": "linear",
+                                        "enabled": true,
+                                        "rotation": 0,
+                                        "size": {
+                                          "height": 1
+                                        },
+                                        "colors": [
+                                          {
+                                            "color": "#00000080",
+                                            "position": 0
+                                          },
+                                          {
+                                            "color": "#00000000",
+                                            "position": 1
+                                          }
+                                        ]
+                                      },
+                                      "layout": "none"
+                                    },
+                                    {
+                                      "type": "frame",
+                                      "id": "QdfCQ",
+                                      "layoutPosition": "absolute",
+                                      "x": 12,
+                                      "y": 449,
+                                      "name": "Cuenta · Ad (estilo Instagram)",
+                                      "gap": 9,
+                                      "alignItems": "center",
+                                      "children": [
+                                        {
+                                          "type": "frame",
+                                          "id": "Q5sxQ",
+                                          "name": "Avatar",
+                                          "width": 30,
+                                          "height": 30,
+                                          "fill": "#1F3B2D",
+                                          "cornerRadius": 15,
+                                          "stroke": "#FFFFFFCC",
+                                          "strokeWidth": 1.6666666666666667,
+                                          "justifyContent": "center",
+                                          "alignItems": "center",
+                                          "children": [
+                                            {
+                                              "type": "text",
+                                              "id": "S6wqm",
+                                              "name": "G",
+                                              "fill": "#E9D9A6",
+                                              "content": "G",
+                                              "fontFamily": "$font-titulo",
+                                              "fontSize": 16,
+                                              "fontWeight": "normal"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "type": "frame",
+                                          "id": "BIGbi",
+                                          "name": "Nombre",
+                                          "layout": "vertical",
+                                          "gap": 2,
+                                          "children": [
+                                            {
+                                              "type": "text",
+                                              "id": "mtJ0D",
+                                              "name": "guaraguao.do",
+                                              "fill": "#FFFFFF",
+                                              "content": "guaraguao.do",
+                                              "fontFamily": "Inter",
+                                              "fontSize": 16,
+                                              "fontWeight": "600"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "id": "YRv50",
+                                              "name": "Ad",
+                                              "fill": "#FFFFFFE0",
+                                              "content": "Ad",
+                                              "fontFamily": "Inter",
+                                              "fontSize": 15,
+                                              "fontWeight": "normal"
+                                            }
+                                          ]
+                                        }
+                                      ]
                                     }
                                   ]
                                 }
@@ -12722,14 +12436,14 @@
                             },
                             {
                               "type": "frame",
-                              "id": "cNaTw",
+                              "id": "X98v0",
                               "name": "Leyenda",
                               "layout": "vertical",
                               "gap": 6,
                               "children": [
                                 {
                                   "type": "text",
-                                  "id": "vJ9V3",
+                                  "id": "8d9b9",
                                   "name": "Duración",
                                   "fill": "$rec",
                                   "content": "20 S",
@@ -12740,7 +12454,7 @@
                                 },
                                 {
                                   "type": "text",
-                                  "id": "6ab9N",
+                                  "id": "DF01O",
                                   "name": "Descripción",
                                   "fill": "$humo",
                                   "content": "Lo esencial",
@@ -12754,7 +12468,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "ZrRFK",
+                          "id": "P1IPU",
                           "name": "Corte 15 S",
                           "width": 296,
                           "layout": "vertical",
@@ -12762,7 +12476,7 @@
                           "children": [
                             {
                               "type": "frame",
-                              "id": "5Oa40",
+                              "id": "6KFtg",
                               "name": "Teléfono",
                               "width": 296,
                               "fill": {
@@ -12812,7 +12526,7 @@
                               "children": [
                                 {
                                   "type": "frame",
-                                  "id": "FtldM",
+                                  "id": "JE8qg",
                                   "name": "Pantalla",
                                   "clip": true,
                                   "width": 284,
@@ -12828,7 +12542,7 @@
                                   "children": [
                                     {
                                       "type": "frame",
-                                      "id": "utpSk",
+                                      "id": "SvU8S",
                                       "x": 102,
                                       "y": 9,
                                       "name": "Dynamic Island",
@@ -12836,6 +12550,101 @@
                                       "height": 23,
                                       "fill": "#000000",
                                       "cornerRadius": 11.5
+                                    },
+                                    {
+                                      "type": "frame",
+                                      "id": "2h7TB",
+                                      "x": 0,
+                                      "y": 354,
+                                      "name": "Sombra inferior",
+                                      "width": 284,
+                                      "height": 152,
+                                      "fill": {
+                                        "type": "gradient",
+                                        "gradientType": "linear",
+                                        "enabled": true,
+                                        "rotation": 0,
+                                        "size": {
+                                          "height": 1
+                                        },
+                                        "colors": [
+                                          {
+                                            "color": "#00000080",
+                                            "position": 0
+                                          },
+                                          {
+                                            "color": "#00000000",
+                                            "position": 1
+                                          }
+                                        ]
+                                      },
+                                      "layout": "none"
+                                    },
+                                    {
+                                      "type": "frame",
+                                      "id": "dmuc2",
+                                      "layoutPosition": "absolute",
+                                      "x": 12,
+                                      "y": 449,
+                                      "name": "Cuenta · Ad (estilo Instagram)",
+                                      "gap": 9,
+                                      "alignItems": "center",
+                                      "children": [
+                                        {
+                                          "type": "frame",
+                                          "id": "s1ktc",
+                                          "name": "Avatar",
+                                          "width": 30,
+                                          "height": 30,
+                                          "fill": "#1F3B2D",
+                                          "cornerRadius": 15,
+                                          "stroke": "#FFFFFFCC",
+                                          "strokeWidth": 1.6666666666666667,
+                                          "justifyContent": "center",
+                                          "alignItems": "center",
+                                          "children": [
+                                            {
+                                              "type": "text",
+                                              "id": "Zt1p7",
+                                              "name": "G",
+                                              "fill": "#E9D9A6",
+                                              "content": "G",
+                                              "fontFamily": "$font-titulo",
+                                              "fontSize": 16,
+                                              "fontWeight": "normal"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "type": "frame",
+                                          "id": "jkBbz",
+                                          "name": "Nombre",
+                                          "layout": "vertical",
+                                          "gap": 2,
+                                          "children": [
+                                            {
+                                              "type": "text",
+                                              "id": "loK9F",
+                                              "name": "guaraguao.do",
+                                              "fill": "#FFFFFF",
+                                              "content": "guaraguao.do",
+                                              "fontFamily": "Inter",
+                                              "fontSize": 16,
+                                              "fontWeight": "600"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "id": "xYSLU",
+                                              "name": "Ad",
+                                              "fill": "#FFFFFFE0",
+                                              "content": "Ad",
+                                              "fontFamily": "Inter",
+                                              "fontSize": 15,
+                                              "fontWeight": "normal"
+                                            }
+                                          ]
+                                        }
+                                      ]
                                     }
                                   ]
                                 }
@@ -12843,14 +12652,14 @@
                             },
                             {
                               "type": "frame",
-                              "id": "VDPvS",
+                              "id": "I44Y6",
                               "name": "Leyenda",
                               "layout": "vertical",
                               "gap": 6,
                               "children": [
                                 {
                                   "type": "text",
-                                  "id": "jNmNt",
+                                  "id": "rRDBw",
                                   "name": "Duración",
                                   "fill": "$rec",
                                   "content": "15 S",
@@ -12861,7 +12670,7 @@
                                 },
                                 {
                                   "type": "text",
-                                  "id": "dS0Kn",
+                                  "id": "yDrAZ",
                                   "name": "Descripción",
                                   "fill": "$humo",
                                   "content": "Directo al gancho",
@@ -12879,7 +12688,7 @@
                 },
                 {
                   "type": "frame",
-                  "id": "6KFtg",
+                  "id": "LQTEu",
                   "name": "Precio + CTA",
                   "width": "fill_container",
                   "layout": "vertical",
@@ -12887,7 +12696,7 @@
                   "children": [
                     {
                       "type": "text",
-                      "id": "mtJ0D",
+                      "id": "LqUM5",
                       "name": "Qué recibes",
                       "fill": "$humo",
                       "content": "1 ANUNCIO · 3 DURACIONES · TODO INCLUIDO",
@@ -12898,7 +12707,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "uWRRV",
+                      "id": "2RaTm",
                       "name": "Fila",
                       "width": "fill_container",
                       "justifyContent": "space_between",
@@ -12906,14 +12715,14 @@
                       "children": [
                         {
                           "type": "frame",
-                          "id": "QdfCQ",
+                          "id": "Ua91m",
                           "name": "Precio",
                           "layout": "vertical",
                           "gap": 6,
                           "children": [
                             {
                               "type": "text",
-                              "id": "YRv50",
+                              "id": "d2lL1",
                               "name": "Desde",
                               "fill": "$humo",
                               "content": "DESDE",
@@ -12924,7 +12733,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "BIGbi",
+                              "id": "a5UfY",
                               "name": "US$",
                               "fill": "$tinta",
                               "content": "US$299",
@@ -12938,7 +12747,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "X98v0",
+                          "id": "B3EKl",
                           "name": "CTA · DM",
                           "fill": "$rec",
                           "cornerRadius": 999,
@@ -12951,7 +12760,7 @@
                           "children": [
                             {
                               "type": "icon",
-                              "id": "8d9b9",
+                              "id": "U8VD2",
                               "name": "Ícono Instagram",
                               "width": 40,
                               "height": 40,
@@ -12961,7 +12770,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "DF01O",
+                              "id": "ZragI",
                               "name": "CTA txt",
                               "fill": "$papel",
                               "content": "Escríbenos MARCA por DM",
@@ -12977,7 +12786,7 @@
                 },
                 {
                   "type": "frame",
-                  "id": "SvU8S",
+                  "id": "3zeRD",
                   "layoutPosition": "absolute",
                   "x": 0,
                   "y": 0,
@@ -12989,7 +12798,7 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "2h7TB",
+                      "id": "NulxX",
                       "x": 0,
                       "y": 0,
                       "name": "Zona superior 14%",
@@ -12999,7 +12808,7 @@
                     },
                     {
                       "type": "rectangle",
-                      "id": "Zt1p7",
+                      "id": "xqX25",
                       "x": 0,
                       "y": 1650,
                       "name": "Zona inferior 14%",
@@ -13013,14 +12822,14 @@
             },
             {
               "type": "frame",
-              "id": "XtVMp",
+              "id": "DudiE",
               "name": "C3 · Storyboard → final · Story 9:16",
               "clip": true,
               "width": 1080,
               "height": 1920,
               "fill": "$arena",
               "layout": "vertical",
-              "gap": 34,
+              "gap": 30,
               "padding": [
                 280,
                 72
@@ -13028,8 +12837,36 @@
               "justifyContent": "center",
               "children": [
                 {
+                  "type": "frame",
+                  "id": "aBDmE",
+                  "name": "Kicker · solo ads",
+                  "gap": 14,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "ellipse",
+                      "id": "jPrL2",
+                      "name": "Dot",
+                      "fill": "$rec",
+                      "width": 12,
+                      "height": 12
+                    },
+                    {
+                      "type": "text",
+                      "id": "WbgmB",
+                      "name": "VIDEOS PARA ANUNCIOS EN INSTAGRAM Y FACE",
+                      "fill": "$humo",
+                      "content": "VIDEOS PARA ANUNCIOS EN INSTAGRAM Y FACEBOOK ADS",
+                      "fontFamily": "$font-mono",
+                      "fontSize": 22,
+                      "fontWeight": "normal",
+                      "letterSpacing": 3
+                    }
+                  ]
+                },
+                {
                   "type": "text",
-                  "id": "ZragI",
+                  "id": "BapHf",
                   "name": "Para quién",
                   "fill": "$tinta",
                   "textGrowth": "fixed-width",
@@ -13041,14 +12878,14 @@
                 },
                 {
                   "type": "frame",
-                  "id": "LQTEu",
+                  "id": "5gWQ1",
                   "name": "Titular",
                   "width": "fill_container",
                   "layout": "vertical",
                   "children": [
                     {
                       "type": "text",
-                      "id": "B3EKl",
+                      "id": "OEe7v",
                       "name": "Ves tu anuncio",
                       "fill": "$tinta",
                       "textGrowth": "fixed-width",
@@ -13056,13 +12893,13 @@
                       "content": "Ves tu anuncio",
                       "lineHeight": 0.95,
                       "fontFamily": "$font-titulo",
-                      "fontSize": 118,
+                      "fontSize": 110,
                       "fontWeight": "normal",
                       "letterSpacing": -2
                     },
                     {
                       "type": "text",
-                      "id": "2RaTm",
+                      "id": "cAOQj",
                       "name": "antes de producirlo.",
                       "fill": "$rec",
                       "textGrowth": "fixed-width",
@@ -13070,7 +12907,7 @@
                       "content": "antes de producirlo.",
                       "lineHeight": 0.95,
                       "fontFamily": "$font-titulo",
-                      "fontSize": 118,
+                      "fontSize": 110,
                       "fontWeight": "normal",
                       "letterSpacing": -2,
                       "fontStyle": "italic"
@@ -13079,22 +12916,22 @@
                 },
                 {
                   "type": "frame",
-                  "id": "ONrQc",
+                  "id": "dHyUt",
                   "name": "Comparación",
                   "width": "fill_container",
                   "gap": 32,
                   "children": [
                     {
                       "type": "frame",
-                      "id": "3zeRD",
-                      "name": "Columna 01 · STORYBOARD",
+                      "id": "sOU7H",
+                      "name": "Columna 01 · TU DIRECCIÓN",
                       "width": 452,
                       "layout": "vertical",
                       "gap": 16,
                       "children": [
                         {
                           "type": "text",
-                          "id": "NtDS7",
+                          "id": "H387S",
                           "name": "Etiqueta",
                           "fill": "$humo",
                           "content": "01 · TU DIRECCIÓN",
@@ -13105,7 +12942,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "Ua91m",
+                          "id": "2wjTq",
                           "name": "Tarjeta storyboard",
                           "width": 452,
                           "fill": "$papel",
@@ -13116,11 +12953,11 @@
                           "children": [
                             {
                               "type": "frame",
-                              "id": "s1ktc",
+                              "id": "ONrQc",
                               "name": "Imagen escena A",
                               "clip": true,
                               "width": "fill_container",
-                              "height": 440,
+                              "height": 390,
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
@@ -13132,7 +12969,7 @@
                               "children": [
                                 {
                                   "type": "frame",
-                                  "id": "xYSLU",
+                                  "id": "YIHhk",
                                   "layoutPosition": "absolute",
                                   "x": 14,
                                   "y": 14,
@@ -13146,7 +12983,7 @@
                                   "children": [
                                     {
                                       "type": "text",
-                                      "id": "loK9F",
+                                      "id": "YJB5U",
                                       "name": "0:00–0:03",
                                       "fill": "$papel",
                                       "content": "0:00–0:03",
@@ -13161,7 +12998,7 @@
                             },
                             {
                               "type": "frame",
-                              "id": "a5UfY",
+                              "id": "9ckI2",
                               "name": "Escena",
                               "width": "fill_container",
                               "layout": "vertical",
@@ -13175,14 +13012,14 @@
                               "children": [
                                 {
                                   "type": "frame",
-                                  "id": "rRDBw",
+                                  "id": "i7prX",
                                   "name": "Título escena",
                                   "gap": 12,
                                   "alignItems": "end",
                                   "children": [
                                     {
                                       "type": "text",
-                                      "id": "jkBbz",
+                                      "id": "tVmtk",
                                       "name": "A",
                                       "fill": "$rec",
                                       "content": "A",
@@ -13194,7 +13031,7 @@
                                     },
                                     {
                                       "type": "text",
-                                      "id": "dmuc2",
+                                      "id": "HsvLA",
                                       "name": "Gancho",
                                       "fill": "$tinta",
                                       "content": "Gancho",
@@ -13208,7 +13045,7 @@
                                 },
                                 {
                                   "type": "text",
-                                  "id": "yDrAZ",
+                                  "id": "pF9UO",
                                   "name": "Texto en pantalla",
                                   "fill": "$tinta",
                                   "textGrowth": "fixed-width",
@@ -13221,7 +13058,7 @@
                                 },
                                 {
                                   "type": "frame",
-                                  "id": "jW9u1",
+                                  "id": "A8eFV",
                                   "name": "Sonido",
                                   "width": "fill_container",
                                   "layout": "vertical",
@@ -13229,7 +13066,7 @@
                                   "children": [
                                     {
                                       "type": "text",
-                                      "id": "I44Y6",
+                                      "id": "G32bJ",
                                       "name": "SONIDO",
                                       "fill": "$humo",
                                       "content": "SONIDO",
@@ -13240,7 +13077,7 @@
                                     },
                                     {
                                       "type": "text",
-                                      "id": "P1IPU",
+                                      "id": "2Idda",
                                       "name": "Crack seco + pulso suave",
                                       "fill": "$humo",
                                       "textGrowth": "fixed-width",
@@ -13254,7 +13091,7 @@
                                 },
                                 {
                                   "type": "frame",
-                                  "id": "d2lL1",
+                                  "id": "1p8e1",
                                   "name": "Transición",
                                   "width": "fill_container",
                                   "layout": "vertical",
@@ -13262,7 +13099,7 @@
                                   "children": [
                                     {
                                       "type": "text",
-                                      "id": "wimrs",
+                                      "id": "XtVMp",
                                       "name": "TRANSICIÓN",
                                       "fill": "$humo",
                                       "content": "TRANSICIÓN",
@@ -13273,7 +13110,7 @@
                                     },
                                     {
                                       "type": "text",
-                                      "id": "LqUM5",
+                                      "id": "xxUqx",
                                       "name": "Match cut",
                                       "fill": "$humo",
                                       "textGrowth": "fixed-width",
@@ -13293,7 +13130,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "xqX25",
+                      "id": "CoZTU",
                       "name": "Columna 02 · ANUNCIO FINAL",
                       "width": 452,
                       "layout": "vertical",
@@ -13301,7 +13138,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "NulxX",
+                          "id": "3yAOl",
                           "name": "Etiqueta",
                           "fill": "$rec",
                           "content": "02 · ANUNCIO FINAL",
@@ -13312,11 +13149,11 @@
                         },
                         {
                           "type": "frame",
-                          "id": "U8VD2",
+                          "id": "aIyAI",
                           "name": "Fotograma final",
                           "clip": true,
                           "width": 452,
-                          "height": 770,
+                          "height": 720,
                           "fill": {
                             "type": "image",
                             "enabled": true,
@@ -13324,7 +13161,104 @@
                             "mode": "fill"
                           },
                           "cornerRadius": 22,
-                          "layout": "none"
+                          "layout": "none",
+                          "children": [
+                            {
+                              "type": "frame",
+                              "id": "Fuy3W",
+                              "x": 0,
+                              "y": 504,
+                              "name": "Sombra inferior",
+                              "width": 452,
+                              "height": 216,
+                              "fill": {
+                                "type": "gradient",
+                                "gradientType": "linear",
+                                "enabled": true,
+                                "rotation": 0,
+                                "size": {
+                                  "height": 1
+                                },
+                                "colors": [
+                                  {
+                                    "color": "#00000080",
+                                    "position": 0
+                                  },
+                                  {
+                                    "color": "#00000000",
+                                    "position": 1
+                                  }
+                                ]
+                              },
+                              "layout": "none"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "O91g3",
+                              "layoutPosition": "absolute",
+                              "x": 20,
+                              "y": 642,
+                              "name": "Cuenta · Ad (estilo Instagram)",
+                              "gap": 13,
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "frame",
+                                  "id": "Vn4Fd",
+                                  "name": "Avatar",
+                                  "width": 44,
+                                  "height": 44,
+                                  "fill": "#1F3B2D",
+                                  "cornerRadius": 22,
+                                  "stroke": "#FFFFFFCC",
+                                  "strokeWidth": 2.4444444444444446,
+                                  "justifyContent": "center",
+                                  "alignItems": "center",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "id": "0NftR",
+                                      "name": "G",
+                                      "fill": "#E9D9A6",
+                                      "content": "G",
+                                      "fontFamily": "$font-titulo",
+                                      "fontSize": 24,
+                                      "fontWeight": "normal"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "frame",
+                                  "id": "65fRH",
+                                  "name": "Nombre",
+                                  "layout": "vertical",
+                                  "gap": 3,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "id": "HBitA",
+                                      "name": "guaraguao.do",
+                                      "fill": "#FFFFFF",
+                                      "content": "guaraguao.do",
+                                      "fontFamily": "Inter",
+                                      "fontSize": 22,
+                                      "fontWeight": "600"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "id": "nCJiQ",
+                                      "name": "Ad",
+                                      "fill": "#FFFFFFE0",
+                                      "content": "Ad",
+                                      "fontFamily": "Inter",
+                                      "fontSize": 21,
+                                      "fontWeight": "normal"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
@@ -13332,7 +13266,7 @@
                 },
                 {
                   "type": "frame",
-                  "id": "A8eFV",
+                  "id": "tI0vv",
                   "name": "Precio + CTA",
                   "width": "fill_container",
                   "layout": "vertical",
@@ -13340,7 +13274,7 @@
                   "children": [
                     {
                       "type": "text",
-                      "id": "YJB5U",
+                      "id": "dDO9A",
                       "name": "Qué recibes",
                       "fill": "$humo",
                       "content": "1 ANUNCIO · 3 DURACIONES · TODO INCLUIDO",
@@ -13351,7 +13285,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "2Idda",
+                      "id": "wAJQD",
                       "name": "Fila",
                       "width": "fill_container",
                       "justifyContent": "space_between",
@@ -13359,14 +13293,14 @@
                       "children": [
                         {
                           "type": "frame",
-                          "id": "HsvLA",
+                          "id": "3rqri",
                           "name": "Precio",
                           "layout": "vertical",
                           "gap": 6,
                           "children": [
                             {
                               "type": "text",
-                              "id": "YIHhk",
+                              "id": "0DkfJ",
                               "name": "Desde",
                               "fill": "$humo",
                               "content": "DESDE",
@@ -13377,7 +13311,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "tVmtk",
+                              "id": "U9FHQ",
                               "name": "US$",
                               "fill": "$tinta",
                               "content": "US$299",
@@ -13391,7 +13325,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "G32bJ",
+                          "id": "8AoRP",
                           "name": "CTA · DM",
                           "fill": "$rec",
                           "cornerRadius": 999,
@@ -13404,7 +13338,7 @@
                           "children": [
                             {
                               "type": "icon",
-                              "id": "i7prX",
+                              "id": "BD8b7",
                               "name": "Ícono Instagram",
                               "width": 40,
                               "height": 40,
@@ -13414,7 +13348,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "pF9UO",
+                              "id": "8KDZ0",
                               "name": "CTA txt",
                               "fill": "$papel",
                               "content": "Escríbenos MARCA por DM",
@@ -13430,7 +13364,7 @@
                 },
                 {
                   "type": "frame",
-                  "id": "xxUqx",
+                  "id": "m9Ngd",
                   "layoutPosition": "absolute",
                   "x": 0,
                   "y": 0,
@@ -13442,7 +13376,7 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "1p8e1",
+                      "id": "2SFhL",
                       "x": 0,
                       "y": 0,
                       "name": "Zona superior 14%",
@@ -13452,7 +13386,7 @@
                     },
                     {
                       "type": "rectangle",
-                      "id": "9ckI2",
+                      "id": "fC3qA",
                       "x": 0,
                       "y": 1650,
                       "name": "Zona inferior 14%",
@@ -13466,7 +13400,7 @@
             },
             {
               "type": "frame",
-              "id": "m9Ngd",
+              "id": "0D4Tu",
               "name": "C4 · Garantía · Story 9:16",
               "clip": true,
               "width": 1080,
@@ -13481,8 +13415,36 @@
               "justifyContent": "center",
               "children": [
                 {
+                  "type": "frame",
+                  "id": "fHkc8",
+                  "name": "Kicker · solo ads",
+                  "gap": 14,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "ellipse",
+                      "id": "anctK",
+                      "name": "Dot",
+                      "fill": "$rec",
+                      "width": 12,
+                      "height": 12
+                    },
+                    {
+                      "type": "text",
+                      "id": "tDZvO",
+                      "name": "VIDEOS PARA ANUNCIOS EN INSTAGRAM Y FACE",
+                      "fill": "#F5EFE4B3",
+                      "content": "VIDEOS PARA ANUNCIOS EN INSTAGRAM Y FACEBOOK ADS",
+                      "fontFamily": "$font-mono",
+                      "fontSize": 22,
+                      "fontWeight": "normal",
+                      "letterSpacing": 3
+                    }
+                  ]
+                },
+                {
                   "type": "text",
-                  "id": "2wjTq",
+                  "id": "uFrSi",
                   "name": "Para quién",
                   "fill": "$papel",
                   "textGrowth": "fixed-width",
@@ -13494,14 +13456,14 @@
                 },
                 {
                   "type": "frame",
-                  "id": "Vn4Fd",
+                  "id": "I8gtu",
                   "name": "Titular",
                   "width": "fill_container",
                   "layout": "vertical",
                   "children": [
                     {
                       "type": "text",
-                      "id": "aIyAI",
+                      "id": "Er1yZ",
                       "name": "2 direcciones.",
                       "fill": "$papel",
                       "textGrowth": "fixed-width",
@@ -13515,7 +13477,7 @@
                     },
                     {
                       "type": "text",
-                      "id": "Fuy3W",
+                      "id": "lSuet",
                       "name": "Eliges 1.",
                       "fill": "$papel",
                       "textGrowth": "fixed-width",
@@ -13529,7 +13491,7 @@
                     },
                     {
                       "type": "text",
-                      "id": "0NftR",
+                      "id": "ZZbR4",
                       "name": "Garantía 100%.",
                       "fill": "$rec",
                       "textGrowth": "fixed-width",
@@ -13546,7 +13508,7 @@
                 },
                 {
                   "type": "text",
-                  "id": "HBitA",
+                  "id": "ABkB4",
                   "name": "Sin rodaje",
                   "fill": "#F5EFE4B3",
                   "textGrowth": "fixed-width",
@@ -13559,14 +13521,14 @@
                 },
                 {
                   "type": "frame",
-                  "id": "dDO9A",
+                  "id": "rP3wx",
                   "name": "Política",
                   "width": "fill_container",
                   "layout": "vertical",
                   "children": [
                     {
                       "type": "frame",
-                      "id": "WbgmB",
+                      "id": "Yd5Dw",
                       "name": "Paso 01",
                       "width": "fill_container",
                       "stroke": "#F5EFE42E",
@@ -13581,7 +13543,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "nCJiQ",
+                          "id": "FpyIm",
                           "name": "Número",
                           "fill": "$rec",
                           "content": "01",
@@ -13592,7 +13554,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "jPrL2",
+                          "id": "wesbU",
                           "name": "Texto",
                           "width": "fill_container",
                           "layout": "vertical",
@@ -13600,7 +13562,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "65fRH",
+                              "id": "cLGdq",
                               "name": "¿Te gustan las dos?",
                               "fill": "$papel",
                               "textGrowth": "fixed-width",
@@ -13612,7 +13574,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "O91g3",
+                              "id": "2ULfa",
                               "name": "Suma la segunda por US$60, también en 3 ",
                               "fill": "#F5EFE4B3",
                               "textGrowth": "fixed-width",
@@ -13628,7 +13590,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "5gWQ1",
+                      "id": "l6MEr",
                       "name": "Paso 02",
                       "width": "fill_container",
                       "stroke": "#F5EFE42E",
@@ -13643,7 +13605,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "aBDmE",
+                          "id": "BrIE7",
                           "name": "Número",
                           "fill": "$rec",
                           "content": "02",
@@ -13654,7 +13616,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "cAOQj",
+                          "id": "yG1uL",
                           "name": "Texto",
                           "width": "fill_container",
                           "layout": "vertical",
@@ -13662,7 +13624,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "BapHf",
+                              "id": "lCCjD",
                               "name": "¿No te convence ninguna?",
                               "fill": "$papel",
                               "textGrowth": "fixed-width",
@@ -13674,7 +13636,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "OEe7v",
+                              "id": "clNZZ",
                               "name": "Te hacemos una tercera.",
                               "fill": "#F5EFE4B3",
                               "textGrowth": "fixed-width",
@@ -13690,7 +13652,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "dHyUt",
+                      "id": "GCsBw",
                       "name": "Paso 03",
                       "width": "fill_container",
                       "stroke": "#F5EFE42E",
@@ -13705,7 +13667,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "H387S",
+                          "id": "XRblh",
                           "name": "Número",
                           "fill": "$rec",
                           "content": "03",
@@ -13716,7 +13678,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "CoZTU",
+                          "id": "5pijh",
                           "name": "Texto",
                           "width": "fill_container",
                           "layout": "vertical",
@@ -13724,7 +13686,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "sOU7H",
+                              "id": "fnvuZ",
                               "name": "¿Tampoco te convence?",
                               "fill": "$papel",
                               "textGrowth": "fixed-width",
@@ -13736,7 +13698,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "3yAOl",
+                              "id": "nCWe9",
                               "name": "Te devolvemos el 100%.",
                               "fill": "#F5EFE4B3",
                               "textGrowth": "fixed-width",
@@ -13754,7 +13716,7 @@
                 },
                 {
                   "type": "frame",
-                  "id": "DudiE",
+                  "id": "tfrSp",
                   "name": "Precio + CTA",
                   "width": "fill_container",
                   "layout": "vertical",
@@ -13762,7 +13724,7 @@
                   "children": [
                     {
                       "type": "text",
-                      "id": "0DkfJ",
+                      "id": "Hzugt",
                       "name": "Qué recibes",
                       "fill": "#F5EFE4B3",
                       "content": "1 ANUNCIO · 3 DURACIONES · TODO INCLUIDO",
@@ -13773,7 +13735,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "tI0vv",
+                      "id": "5WQiU",
                       "name": "Fila",
                       "width": "fill_container",
                       "justifyContent": "space_between",
@@ -13781,14 +13743,14 @@
                       "children": [
                         {
                           "type": "frame",
-                          "id": "BD8b7",
+                          "id": "WCvLQ",
                           "name": "Precio",
                           "layout": "vertical",
                           "gap": 6,
                           "children": [
                             {
                               "type": "text",
-                              "id": "U9FHQ",
+                              "id": "0tffF",
                               "name": "Desde",
                               "fill": "#F5EFE4B3",
                               "content": "DESDE",
@@ -13799,7 +13761,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "3rqri",
+                              "id": "4FZzM",
                               "name": "US$",
                               "fill": "$papel",
                               "content": "US$299",
@@ -13813,7 +13775,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "wAJQD",
+                          "id": "eTlao",
                           "name": "CTA · DM",
                           "fill": "$rec",
                           "cornerRadius": 999,
@@ -13826,7 +13788,7 @@
                           "children": [
                             {
                               "type": "icon",
-                              "id": "8KDZ0",
+                              "id": "dcp2C",
                               "name": "Ícono Instagram",
                               "width": 40,
                               "height": 40,
@@ -13836,7 +13798,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "8AoRP",
+                              "id": "MJ8j7",
                               "name": "CTA txt",
                               "fill": "$papel",
                               "content": "Escríbenos MARCA por DM",
@@ -13852,7 +13814,7 @@
                 },
                 {
                   "type": "frame",
-                  "id": "2SFhL",
+                  "id": "2z3uX",
                   "layoutPosition": "absolute",
                   "x": 0,
                   "y": 0,
@@ -13864,7 +13826,7 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "fC3qA",
+                      "id": "oARdk",
                       "x": 0,
                       "y": 0,
                       "name": "Zona superior 14%",
@@ -13874,7 +13836,7 @@
                     },
                     {
                       "type": "rectangle",
-                      "id": "anctK",
+                      "id": "PDC3p",
                       "x": 0,
                       "y": 1650,
                       "name": "Zona inferior 14%",
@@ -13890,7 +13852,7 @@
         },
         {
           "type": "text",
-          "id": "BkBQM",
+          "id": "0Tmvh",
           "name": "Etiqueta fila",
           "fill": "$tinta",
           "content": "C1 · DEMO EN VIDEO: APERTURA (0–3 s) · ETIQUETA (3–15 s) · CIERRE (15–18 s). SE EXPORTAN Y SE MONTAN SOBRE guaraguao-15s-720p.mp4",
@@ -13901,13 +13863,13 @@
         },
         {
           "type": "frame",
-          "id": "U8XJp",
+          "id": "3A6qe",
           "name": "Fila · Video",
           "gap": 100,
           "children": [
             {
               "type": "frame",
-              "id": "IqtNU",
+              "id": "6O1wH",
               "name": "Previa apertura",
               "width": 1080,
               "height": 1920,
@@ -13921,7 +13883,7 @@
               "children": [
                 {
                   "type": "frame",
-                  "id": "tDZvO",
+                  "id": "uw3wk",
                   "x": 0,
                   "y": 0,
                   "name": "C1 · Demo · Apertura (0–3 s, transparente)",
@@ -13933,7 +13895,7 @@
                   "children": [
                     {
                       "type": "frame",
-                      "id": "fHkc8",
+                      "id": "LxLME",
                       "x": 0,
                       "y": 1060,
                       "name": "Degradado inferior",
@@ -13966,7 +13928,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "FpyIm",
+                      "id": "Bs5gO",
                       "layoutPosition": "absolute",
                       "x": 72,
                       "y": 1220,
@@ -13977,7 +13939,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "uFrSi",
+                          "id": "BkBQM",
                           "name": "Para quién",
                           "fill": "$papel",
                           "textGrowth": "fixed-width",
@@ -13989,14 +13951,14 @@
                         },
                         {
                           "type": "frame",
-                          "id": "ZZbR4",
+                          "id": "U8XJp",
                           "name": "Titular",
                           "width": "fill_container",
                           "layout": "vertical",
                           "children": [
                             {
                               "type": "text",
-                              "id": "Er1yZ",
+                              "id": "IqtNU",
                               "name": "Esto es lo que",
                               "fill": "$papel",
                               "textGrowth": "fixed-width",
@@ -14010,7 +13972,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "lSuet",
+                              "id": "VOtXg",
                               "name": "recibes.",
                               "fill": "$rec",
                               "textGrowth": "fixed-width",
@@ -14027,7 +13989,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "ABkB4",
+                          "id": "QTES6",
                           "name": "Chip precio",
                           "fill": "$papel",
                           "cornerRadius": 999,
@@ -14038,7 +14000,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "I8gtu",
+                              "id": "6vfH2",
                               "name": "Chip txt",
                               "fill": "$tinta",
                               "content": "1 anuncio en 3 duraciones · Desde US$299",
@@ -14052,7 +14014,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "cLGdq",
+                      "id": "5V96m",
                       "layoutPosition": "absolute",
                       "x": 0,
                       "y": 0,
@@ -14064,7 +14026,7 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "2ULfa",
+                          "id": "yhQ9V",
                           "x": 0,
                           "y": 0,
                           "name": "Zona superior 14%",
@@ -14074,7 +14036,7 @@
                         },
                         {
                           "type": "rectangle",
-                          "id": "wesbU",
+                          "id": "m8iC9",
                           "x": 0,
                           "y": 1650,
                           "name": "Zona inferior 14%",
@@ -14090,7 +14052,7 @@
             },
             {
               "type": "frame",
-              "id": "VOtXg",
+              "id": "n9Ilb",
               "name": "Previa etiqueta",
               "width": 1080,
               "height": 1920,
@@ -14104,7 +14066,7 @@
               "children": [
                 {
                   "type": "frame",
-                  "id": "Yd5Dw",
+                  "id": "uUvEg",
                   "x": 0,
                   "y": 0,
                   "name": "C1 · Demo · Etiqueta (3–15 s, transparente)",
@@ -14116,7 +14078,37 @@
                   "children": [
                     {
                       "type": "frame",
-                      "id": "clNZZ",
+                      "id": "V6yFS",
+                      "x": 0,
+                      "y": 1250,
+                      "name": "Degradado inferior",
+                      "width": 1080,
+                      "height": 670,
+                      "layout": "none",
+                      "fill": {
+                        "type": "gradient",
+                        "gradientType": "linear",
+                        "enabled": true,
+                        "rotation": 0,
+                        "size": {
+                          "height": 1
+                        },
+                        "colors": [
+                          {
+                            "color": "#16130FB3",
+                            "position": 0
+                          },
+                          {
+                            "color": "#16130F00",
+                            "position": 1
+                          }
+                        ]
+                      },
+                      "children": []
+                    },
+                    {
+                      "type": "frame",
+                      "id": "WBhzh",
                       "layoutPosition": "absolute",
                       "x": 72,
                       "y": 1560,
@@ -14132,7 +14124,7 @@
                       "children": [
                         {
                           "type": "ellipse",
-                          "id": "BrIE7",
+                          "id": "SxE1G",
                           "name": "Dot",
                           "fill": "$rec",
                           "width": 12,
@@ -14140,7 +14132,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "lCCjD",
+                          "id": "92lta",
                           "name": "EJEMPLO · CORTE DE 15 S · US$299",
                           "fill": "$papel",
                           "content": "EJEMPLO · CORTE DE 15 S · US$299",
@@ -14153,7 +14145,73 @@
                     },
                     {
                       "type": "frame",
-                      "id": "yG1uL",
+                      "id": "d6rpH",
+                      "layoutPosition": "absolute",
+                      "x": 72,
+                      "y": 1440,
+                      "name": "Cuenta · Ad (estilo Instagram)",
+                      "gap": 22,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "crk6S",
+                          "name": "Avatar",
+                          "width": 72,
+                          "height": 72,
+                          "fill": "#1F3B2D",
+                          "cornerRadius": 36,
+                          "stroke": "#FFFFFFCC",
+                          "strokeWidth": 4,
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "Wk7og",
+                              "name": "G",
+                              "fill": "#E9D9A6",
+                              "content": "G",
+                              "fontFamily": "$font-titulo",
+                              "fontSize": 40,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "FBfwX",
+                          "name": "Nombre",
+                          "layout": "vertical",
+                          "gap": 5,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "rK2ZO",
+                              "name": "guaraguao.do",
+                              "fill": "#FFFFFF",
+                              "content": "guaraguao.do",
+                              "fontFamily": "Inter",
+                              "fontSize": 34,
+                              "fontWeight": "600"
+                            },
+                            {
+                              "type": "text",
+                              "id": "8DabP",
+                              "name": "Ad",
+                              "fill": "#FFFFFFE0",
+                              "content": "Ad",
+                              "fontFamily": "Inter",
+                              "fontSize": 32,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "PbvVq",
                       "layoutPosition": "absolute",
                       "x": 0,
                       "y": 0,
@@ -14165,7 +14223,7 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "l6MEr",
+                          "id": "3hJXf",
                           "x": 0,
                           "y": 0,
                           "name": "Zona superior 14%",
@@ -14175,7 +14233,7 @@
                         },
                         {
                           "type": "rectangle",
-                          "id": "XRblh",
+                          "id": "6HVPc",
                           "x": 0,
                           "y": 1650,
                           "name": "Zona inferior 14%",
@@ -14191,7 +14249,7 @@
             },
             {
               "type": "frame",
-              "id": "tfrSp",
+              "id": "IOUfZ",
               "name": "C1 · Demo · Cierre (3 s)",
               "clip": true,
               "width": 1080,
@@ -14206,7 +14264,7 @@
               "justifyContent": "center",
               "children": [
                 {
-                  "id": "fnvuZ",
+                  "id": "nzZBo",
                   "type": "ref",
                   "ref": "hw20J",
                   "name": "Logo",
@@ -14236,8 +14294,36 @@
                   }
                 },
                 {
+                  "type": "frame",
+                  "id": "SGjrm",
+                  "name": "Kicker · solo ads",
+                  "gap": 14,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "ellipse",
+                      "id": "HKDO8",
+                      "name": "Dot",
+                      "fill": "$rec",
+                      "width": 12,
+                      "height": 12
+                    },
+                    {
+                      "type": "text",
+                      "id": "1OOXp",
+                      "name": "VIDEOS PARA ANUNCIOS EN INSTAGRAM Y FACE",
+                      "fill": "#F5EFE4B3",
+                      "content": "VIDEOS PARA ANUNCIOS EN INSTAGRAM Y FACEBOOK ADS",
+                      "fontFamily": "$font-mono",
+                      "fontSize": 22,
+                      "fontWeight": "normal",
+                      "letterSpacing": 3
+                    }
+                  ]
+                },
+                {
                   "type": "text",
-                  "id": "nCWe9",
+                  "id": "Pe3Wf",
                   "name": "Para quién",
                   "fill": "$papel",
                   "textGrowth": "fixed-width",
@@ -14249,14 +14335,14 @@
                 },
                 {
                   "type": "frame",
-                  "id": "rP3wx",
+                  "id": "wifJu",
                   "name": "Titular",
                   "width": "fill_container",
                   "layout": "vertical",
                   "children": [
                     {
                       "type": "text",
-                      "id": "5pijh",
+                      "id": "K3XuW",
                       "name": "1 anuncio.",
                       "fill": "$papel",
                       "textGrowth": "fixed-width",
@@ -14270,7 +14356,7 @@
                     },
                     {
                       "type": "text",
-                      "id": "GCsBw",
+                      "id": "qDv4p",
                       "name": "3 duraciones.",
                       "fill": "$rec",
                       "textGrowth": "fixed-width",
@@ -14287,7 +14373,7 @@
                 },
                 {
                   "type": "text",
-                  "id": "Hzugt",
+                  "id": "QSg9i",
                   "name": "Bajada",
                   "fill": "#F5EFE4B3",
                   "textGrowth": "fixed-width",
@@ -14300,7 +14386,7 @@
                 },
                 {
                   "type": "text",
-                  "id": "0tffF",
+                  "id": "wYymg",
                   "name": "Prueba",
                   "fill": "$rec",
                   "content": "2 DIRECCIONES · ELIGES 1 · GARANTÍA 100%",
@@ -14311,14 +14397,14 @@
                 },
                 {
                   "type": "frame",
-                  "id": "dcp2C",
+                  "id": "VFAVW",
                   "name": "Precio grande",
                   "layout": "vertical",
                   "gap": 8,
                   "children": [
                     {
                       "type": "text",
-                      "id": "4FZzM",
+                      "id": "8hFl3",
                       "name": "DESDE",
                       "fill": "#F5EFE4B3",
                       "content": "DESDE",
@@ -14329,7 +14415,7 @@
                     },
                     {
                       "type": "text",
-                      "id": "WCvLQ",
+                      "id": "oOD59",
                       "name": "US$",
                       "fill": "$papel",
                       "content": "US$299",
@@ -14343,7 +14429,7 @@
                 },
                 {
                   "type": "frame",
-                  "id": "5WQiU",
+                  "id": "ywGXS",
                   "name": "CTA · DM",
                   "fill": "$rec",
                   "cornerRadius": 999,
@@ -14356,7 +14442,7 @@
                   "children": [
                     {
                       "type": "icon",
-                      "id": "MJ8j7",
+                      "id": "oPAUI",
                       "name": "Ícono Instagram",
                       "width": 40,
                       "height": 40,
@@ -14366,7 +14452,7 @@
                     },
                     {
                       "type": "text",
-                      "id": "eTlao",
+                      "id": "ijzXt",
                       "name": "CTA txt",
                       "fill": "$papel",
                       "content": "Escríbenos MARCA por DM",
@@ -14378,7 +14464,7 @@
                 },
                 {
                   "type": "frame",
-                  "id": "0D4Tu",
+                  "id": "jCqOU",
                   "layoutPosition": "absolute",
                   "x": 0,
                   "y": 0,
@@ -14390,7 +14476,7 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "2z3uX",
+                      "id": "4fMrt",
                       "x": 0,
                       "y": 0,
                       "name": "Zona superior 14%",
@@ -14400,7 +14486,7 @@
                     },
                     {
                       "type": "rectangle",
-                      "id": "oARdk",
+                      "id": "bTbsx",
                       "x": 0,
                       "y": 1650,
                       "name": "Zona inferior 14%",
@@ -14528,10 +14614,10 @@
                           "fill": "$papel",
                           "textGrowth": "fixed-width",
                           "width": "fill_container",
-                          "content": "Anuncios en video",
+                          "content": "Videos para anuncios",
                           "lineHeight": 0.95,
                           "fontFamily": "$font-titulo",
-                          "fontSize": 136,
+                          "fontSize": 110,
                           "fontWeight": "normal",
                           "letterSpacing": -2
                         },
@@ -14542,10 +14628,10 @@
                           "fill": "$rec",
                           "textGrowth": "fixed-width",
                           "width": "fill_container",
-                          "content": "para tu producto.",
+                          "content": "en Instagram y Facebook Ads.",
                           "lineHeight": 0.95,
                           "fontFamily": "$font-titulo",
-                          "fontSize": 136,
+                          "fontSize": 110,
                           "fontWeight": "normal",
                           "letterSpacing": -2,
                           "fontStyle": "italic"
