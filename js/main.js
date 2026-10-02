@@ -7,7 +7,7 @@
   let src = utm;
   try { src = src || sessionStorage.getItem("roda_src"); } catch (_) {}
   const via = src && SRC[src.toLowerCase()] ? ` (vía ${SRC[src.toLowerCase()]})` : "";
-  const WA_TEXT = `Hola Roda, quiero mis 3 anuncios para mi producto.${via}`;
+  const WA_TEXT = `Hola Roda, quiero mi anuncio para mi producto.${via}`;
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   // WhatsApp links con mensaje prellenado

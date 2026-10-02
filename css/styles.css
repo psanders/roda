@@ -192,6 +192,7 @@ em{font-style:italic}
 .amount{display:flex;align-items:flex-start;gap:12px;font:400 clamp(110px,14vw,200px)/.9 var(--serif);letter-spacing:-.02em;margin:4px 0 20px}
 .amount .cur{font-size:.24em;line-height:1.3;color:var(--papel-70)}
 .amount-sub{font-size:20px;color:var(--papel-70)}
+.amount-addon{margin-top:10px;font-size:16px;color:var(--papel)}
 .terms>div{display:grid;grid-template-columns:110px 1fr;gap:24px;padding:26px 0;border-top:1px solid var(--papel-18)}
 .terms dt{font:400 12px/2.4 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:rgba(245,239,228,.55)}
 .terms .is-key dt{color:var(--rec)}
